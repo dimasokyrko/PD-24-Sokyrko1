@@ -120,5 +120,10 @@ namespace Lab_3
                 tb.Text = "You win!!!";
             }
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
